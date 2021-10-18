@@ -1,0 +1,19 @@
+body {
+    font-family: Verdana;
+}
+
+.container {
+    padding: 10% 25% 0% 25%;
+}
+
+img {
+    display: block;
+    width: 50%;
+    float: left;
+    border-radius: 10px;
+    margin-right: 50px;
+}
+
+.description {
+    padding: 25px 50px 75px 100px;
+}
